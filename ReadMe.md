@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Olá! Eu sou Paulo Gabriel 👋<br><br>- 🔭 Estou a procura de estágio         <br>- 🌱 Estudando front-end<br>- 🎮 Sou apaixonado por game
+### Olá! Eu sou Paulo Gabriel 👋<br><br>- 🔭 Estou a procura de ser Desenvolvedor Fullstack Júnior        <br>- 🌱 Estudando <br>- 🎮 Sou apaixonado por game
 
 
 ## 🌐 Socials:
